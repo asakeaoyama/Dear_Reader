@@ -1,0 +1,32 @@
+#login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px; 
+    margin:100px; 
+    background-color: rgba(250, 235, 215,0.8);
+    border-radius: 20px;
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#heading{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding-top: 30px;
+}
+
+#createaccount{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px; 
+    margin:100px; 
+    background-color: rgba(250, 235, 215,0.8);
+    border-radius: 20px;
+}
